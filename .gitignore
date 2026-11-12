@@ -1,0 +1,9 @@
+.venv/
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+
+# Jupyter runtime files
+.ipynb_checkpoints/
+.jupyter/runtime/
