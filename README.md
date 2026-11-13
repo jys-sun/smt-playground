@@ -1,6 +1,7 @@
 # Assigning peer reviews with backtracking and Z3
 
-I had 21 project groups in a class and needed to assign peer reviews across three days of presentations. The presentation order was already fixed. I used the assignment as a way to learn Z3: first I wrote a search in Python, then I worked out how to give the same problem to a solver.
+## Task description:
+For a course group project presentation schedule, there are 21 project groups in total, and we need to assign peer reviews across three days.
 
 | Day | Presentation order |
 | --- | --- |
